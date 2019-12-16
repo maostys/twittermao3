@@ -2,6 +2,7 @@ import java.io.IOException;
 
 //pomをサンプルの使う
 //webサーブレット消す（ver2.5のため）
+//sec/test消した
 import java.io.IOException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
